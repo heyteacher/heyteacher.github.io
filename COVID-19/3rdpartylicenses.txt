@@ -57,6 +57,9 @@ MIT
 @angular/core
 MIT
 
+@angular/forms
+MIT
+
 @angular/material
 MIT
 The MIT License
@@ -83,6 +86,9 @@ THE SOFTWARE.
 
 
 @angular/platform-browser
+MIT
+
+@angular/router
 MIT
 
 @swimlane/ngx-charts
