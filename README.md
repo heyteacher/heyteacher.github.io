@@ -4,3 +4,5 @@
 
 
 https://heyteacher.github.io/COVID-19
+
+Source Project: https://github.com/heyteacher/ng-covid-19-ita-charts
