@@ -8,3 +8,6 @@ Charts: https://heyteacher.github.io/COVID-19
 Source Project: https://github.com/heyteacher/ng-covid-19-ita-charts
 
 Datasets: https://github.com/heyteacher/COVID-19
+
+Dataset Daily Update: https://github.com/heyteacher/sam-forecast-automation-covid-19-ita
+ 
