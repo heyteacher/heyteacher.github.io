@@ -1,5 +1,6 @@
 # Sitemaps
 Sitemap: https://heyteacher.github.io/COVID-19/sitemap.xml
+Sitemap: https://heyteacher.github.io/COVID-19/it/sitemap.xml
 
 # Configs
 User-agent: *
